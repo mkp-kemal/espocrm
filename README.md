@@ -7,4 +7,4 @@
 
 ## Screenshot EspoCRM
 
-![Screenshot Leads](https://github.com/mkp-kemal/espocrm/raw/main/screenshot%20%22Leads%22)
+![Screenshot Leads](https://github.com/mkp-kemal/espocrm/raw/main/screenshot%20%22Leads%22%20with%20dropdown)
